@@ -8,3 +8,6 @@ Axios - Para requisições HTTP
 React Router - Para navegação entre páginas
 Styled Components - Para estilização de componentes
 Bootstrap - Framework CSS para layout responsivo
+
+
+Em breve estarei melhorando o Readme
